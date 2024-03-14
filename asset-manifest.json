@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/GUAP/static/css/main.6c30707a.css",
-    "main.js": "/GUAP/static/js/main.92e10b6f.js",
+    "main.js": "/GUAP/static/js/main.263775d6.js",
     "static/js/453.58999123.chunk.js": "/GUAP/static/js/453.58999123.chunk.js",
     "static/media/logo.png": "/GUAP/static/media/logo.3823f7d1f36ef13535c2.png",
     "static/media/VtksMoney2-2Bav.ttf": "/GUAP/static/media/VtksMoney2-2Bav.10709aba821820c579ea.ttf",
     "index.html": "/GUAP/index.html",
     "main.6c30707a.css.map": "/GUAP/static/css/main.6c30707a.css.map",
-    "main.92e10b6f.js.map": "/GUAP/static/js/main.92e10b6f.js.map",
+    "main.263775d6.js.map": "/GUAP/static/js/main.263775d6.js.map",
     "453.58999123.chunk.js.map": "/GUAP/static/js/453.58999123.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c30707a.css",
-    "static/js/main.92e10b6f.js"
+    "static/js/main.263775d6.js"
   ]
 }
